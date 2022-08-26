@@ -1,0 +1,9 @@
+2 Villam lo Horvath Oliver 06405678921 Beteg 2020 2 12
+3 Cirmi macska Nagy Arpad 06413561242 Egeszseges 2020 8 30
+4 Citrom aranyhal Bodo Karoly 06456723124 Egeszseges 2020 10 10
+5 Bundas kutya Fejer Nimrod 06523145622 Egeszseges 2020 12 15
+6 Maci malac Fekete Andras 06501234521 Egeszseges 2020 2 2
+7 Bundaska kutya Vezer Miklos 0670405432 Beteg 2020 13 10
+8 Ducmuc malac Kertesz Elemer 06801234567 Egeszseges 2020 12 10
+
+9 DFGDF kutya dsfgsdfg sdfgsdfg 0430234123 Beteg 2020 11 10
